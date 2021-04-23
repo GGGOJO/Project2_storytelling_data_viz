@@ -1,0 +1,776 @@
+﻿id,name,organization,city,state,country,orgcount,gender,multiorg,lat,lon
+701,Martinus J. G. Veltman,University of Michigan,Ann Arbor,MI,USA,2,M,0,42.2681569,-83.7312291
+925,Gerard Mourou,University of Michigan,Ann Arbor,MI,USA,2,M,0,42.2681569,-83.7312291
+748,Alexei Abrikosov,Argonne National Laboratory,Argonne,IL,USA,1,M,0,41.7091409,-87.9786221
+880,Eric Betzig,Howard Hughes Medical Institute,Ashburn,VA,USA,1,M,0,39.0049709,-77.4911968
+476,Ilya Prigogine,University of Texas,Austin,TX,USA,2,M,0,30.2711286,-97.7436995
+940,John B. Goodenough,University of Texas,Austin,TX,USA,2,M,0,30.2711286,-97.7436995
+489,Daniel Nathans,Johns Hopkins University School of Medicine,Baltimore,MD,USA,4,M,0,39.2908816,-76.610759
+490,Hamilton O. Smith,Johns Hopkins University School of Medicine,Baltimore,MD,USA,4,M,0,39.2908816,-76.610759
+751,Peter Agre,Johns Hopkins University School of Medicine,Baltimore,MD,USA,4,M,0,39.2908816,-76.610759
+824,Carol W. Greider,Johns Hopkins University School of Medicine,Baltimore,MD,USA,4,F,0,39.2908816,-76.610759
+842,Adam G. Riess,Johns Hopkins University,Baltimore,MD,USA,2,M,0,39.2908816,-76.610759
+945,Gregg L. Semenza,Johns Hopkins University,Baltimore,MD,USA,2,M,0,39.2908816,-76.610759
+84201,Adam G. Riess,Space Telescope Science Institute,Baltimore,MD,USA,1,M,1,39.2908816,-76.610759
+513,George D. Snell,Jackson Laboratory,BarHarbor,ME,USA,1,M,0,44.420155,-68.250315
+581,Leon M. Lederman,Fermi National Accelerator Laboratory,Batavia,IL,USA,1,M,0,41.8500284,-88.3125738
+203,Ernest Lawrence,University of California,Berkeley,CA,USA,20,M,0,37.8708393,-122.2728639
+246,William F. Giauque,University of California,Berkeley,CA,USA,20,M,0,37.8708393,-122.2728639
+261,Edwin M. McMillan,University of California,Berkeley,CA,USA,20,M,0,37.8708393,-122.2728639
+262,Glenn T. Seaborg,University of California,Berkeley,CA,USA,20,M,0,37.8708393,-122.2728639
+316,Emilio Segre,University of California,Berkeley,CA,USA,20,M,0,37.8708393,-122.2728639
+317,Owen Chamberlain,University of California,Berkeley,CA,USA,20,M,0,37.8708393,-122.2728639
+323,Donald A. Glaser,University of California,Berkeley,CA,USA,20,M,0,37.8708393,-122.2728639
+331,Melvin Calvin,University of California,Berkeley,CA,USA,20,M,0,37.8708393,-122.2728639
+385,Luis Alvarez,University of California,Berkeley,CA,USA,20,M,0,37.8708393,-122.2728639
+543,Gerard Debreu,University of California,Berkeley,CA,USA,20,M,0,37.8708393,-122.2728639
+565,Yuan T. Lee,University of California,Berkeley,CA,USA,20,M,0,37.8708393,-122.2728639
+648,John C. Harsanyi,University of California,Berkeley,CA,USA,20,M,0,37.8708393,-122.2728639
+719,Daniel L. McFadden,University of California,Berkeley,CA,USA,20,M,0,37.8708393,-122.2728639
+732,George A. Akerlof,University of California,Berkeley,CA,USA,20,M,0,37.8708393,-122.2728639
+741,Sydney Brenner,The Molecular Sciences Institute,Berkeley,CA,USA,1,M,0,37.8708393,-122.2728639
+785,George F. Smoot,University of California,Berkeley,CA,USA,20,M,0,37.8708393,-122.2728639
+829,Oliver E. Williamson,University of California,Berkeley,CA,USA,20,M,0,37.8708393,-122.2728639
+841,Saul Perlmutter,University of California,Berkeley,CA,USA,20,M,0,37.8708393,-122.2728639
+847,Randy W. Schekman,University of California,Berkeley,CA,USA,20,M,0,37.8708393,-122.2728639
+952,Reinhard Genzel,University of California,Berkeley,CA,USA,20,M,0,37.8708393,-122.2728639
+955,Jennifer A. Doudna,University of California,Berkeley,CA,USA,20,F,0,37.8708393,-122.2728639
+84101,Saul Perlmutter,Lawrence Berkeley National Laboratory,Berkeley,CA,USA,1,M,1,37.8708393,-122.2728639
+389,Marshall W. Nirenberg,National Institutes of Health,Bethesda,MD,USA,5,M,0,38.9843774,-77.0941675
+405,Julius Axelrod,National Institutes of Health,Bethesda,MD,USA,5,M,0,38.9843774,-77.0941675
+420,Christian Anfinsen,National Institutes of Health,Bethesda,MD,USA,5,M,0,38.9843774,-77.0941675
+468,D. Carleton Gajdusek,National Institutes of Health,Bethesda,MD,USA,5,M,0,38.9843774,-77.0941675
+956,Harvey J. Alter,National Institutes of Health,Bethesda,MD,USA,5,M,0,38.9843774,-77.0941675
+632,Richard J. Roberts,New England Biolabs,Beverly,MA,USA,1,M,0,42.5584284,-70.8800491
+229,Hermann J. Muller,Indiana University,Bloomington,IN,USA,2,M,0,39.1670396,-86.5342881
+82801,Elinor Ostrom,Indiana University,Bloomington,IN,USA,2,M,1,39.1670396,-86.5342881
+276,Fritz Lipmann,Harvard University,Boston,MA,USA,7,M,0,42.3602534,-71.0582912
+282,John F. Enders,Harvard University,Boston,MA,USA,7,M,0,42.3602534,-71.0582912
+284,Thomas H. Weller,Children's Medical Center,Boston,MA,USA,2,M,0,42.3602534,-71.0582912
+511,Baruj Benacerraf,Harvard University,Boston,MA,USA,7,M,0,42.3602534,-71.0582912
+523,David H. Hubel,Harvard University,Boston,MA,USA,7,M,0,42.3602534,-71.0582912
+524,Torsten N. Wiesel,Harvard University,Boston,MA,USA,7,M,0,42.3602534,-71.0582912
+607,Joseph E. Murray,Brigham and Women's Hospital,Boston,MA,USA,2,M,0,42.3602534,-71.0582912
+825,Jack W. Szostak,Harvard University,Boston,MA,USA,7,M,0,42.3602534,-71.0582912
+943,William G. Kaelin Jr,Harvard University,Boston,MA,USA,7,M,0,42.3602534,-71.0582912
+17601,William P. Murphy,Peter Brent Brigham Hospital,Boston,MA,USA,1,M,1,42.3602534,-71.0582912
+27601,Fritz Lipmann,Massachusetts General Hospital,Boston,MA,USA,2,M,1,42.3602534,-71.0582912
+28201,John F. Enders,Children's Medical Center,Boston,MA,USA,2,M,1,42.3602534,-71.0582912
+82501,Jack W. Szostak,Massachusetts General Hospital,Boston,MA,USA,2,M,1,42.3602534,-71.0582912
+86201,Alvin E. Roth,Harvard University,Boston,MA,USA,1,M,1,42.3602534,-71.0582912
+94301,William G. Kaelin Jr,Brigham and Women's Hospital,Boston,MA,USA,2,M,1,42.3602534,-71.0582912
+94302,William G. Kaelin Jr,Dana-Farber Cancer Institute,Boston,MA,USA,1,M,1,42.3602534,-71.0582912
+597,Thomas R. Cech,University of Colorado,Boulder,CO,USA,2,M,0,40.0149856,-105.2705456
+720,Eric Cornell,University of Colorado,Boulder,CO,USA,3,M,0,40.0149856,-105.2705456
+722,Carl Wieman,University of Colorado,Boulder,CO,USA,3,M,0,40.0149856,-105.2705456
+772,John L. Hall,University of Colorado,Boulder,CO,USA,3,M,0,40.0149856,-105.2705456
+855,David J. Wineland,University of Colorado,Boulder,CO,USA,2,M,0,40.0149856,-105.2705456
+77201,John L. Hall,National Institute of Standards and Technology,Boulder,CO,USA,2,M,1,40.0149856,-105.2705456
+85501,David J. Wineland,National Institute of Standards and Technology,Boulder,CO,USA,2,M,1,40.0149856,-105.2705456
+479,Rosalyn Yalow,Veterans Administration Hospital,Bronx,NY,USA,1,F,0,40.8466508,-73.8785937
+693,Robert F. Furchgott,SUNY Health Science Center,Brooklyn,NY,USA,1,M,0,40.6501038,-73.9495823
+554,Herbert A. Hauptman,The Medical Foundation of Buffalo,Buffalo,NY,USA,1,M,0,42.8867166,-78.8783922
+81,Theodore W. Richards,Harvard University,Cambridge,MA,USA,28,M,0,42.3750997,-71.1056157
+175,George R. Minot,Harvard University,Cambridge,MA,USA,28,M,0,42.3750997,-71.1056157
+176,William P. Murphy,Harvard University,Cambridge,MA,USA,28,M,0,42.3750997,-71.1056157
+225,Percy W. Bridgman,Harvard University,Cambridge,MA,USA,28,M,0,42.3750997,-71.1056157
+227,John H. Van Vleck,Harvard University,Cambridge,MA,USA,28,M,0,42.3750997,-71.1056157
+267,E. M. Purcell,Harvard University,Cambridge,MA,USA,28,M,0,42.3750997,-71.1056157
+332,Georg von Bekesy,Harvard University,Cambridge,MA,USA,28,M,0,42.3750997,-71.1056157
+339,James Watson,Harvard University,Cambridge,MA,USA,28,M,0,42.3750997,-71.1056157
+354,Charles H. Townes,Massachusetts Institute of Technology ,Cambridge,MA,USA,21,M,0,42.3750997,-71.1056157
+358,Konrad Bloch,Harvard University,Cambridge,MA,USA,28,M,0,42.3750997,-71.1056157
+363,Julian Schwinger,Harvard University,Cambridge,MA,USA,28,M,0,42.3750997,-71.1056157
+365,Robert B. Woodward,Harvard University,Cambridge,MA,USA,28,M,0,42.3750997,-71.1056157
+383,George Wald,Harvard University,Cambridge,MA,USA,28,M,0,42.3750997,-71.1056157
+397,Salvador E. Luria,Massachusetts Institute of Technology ,Cambridge,MA,USA,21,M,0,42.3750997,-71.1056157
+410,Paul A. Samuelson,Massachusetts Institute of Technology ,Cambridge,MA,USA,21,M,0,42.3750997,-71.1056157
+416,Simon Kuznets,Harvard University,Cambridge,MA,USA,28,M,0,42.3750997,-71.1056157
+427,Kenneth J. Arrow,Harvard University,Cambridge,MA,USA,28,M,0,42.3750997,-71.1056157
+439,Wassily Leontief,Harvard University,Cambridge,MA,USA,28,M,0,42.3750997,-71.1056157
+457,David Baltimore,Massachusetts Institute of Technology ,Cambridge,MA,USA,21,M,0,42.3750997,-71.1056157
+465,Samuel C.C. Ting,Massachusetts Institute of Technology ,Cambridge,MA,USA,21,M,0,42.3750997,-71.1056157
+466,William Lipscomb,Harvard University,Cambridge,MA,USA,28,M,0,42.3750997,-71.1056157
+495,Sheldon Glashow,Harvard University,Cambridge,MA,USA,1,M,0,42.3750997,-71.1056157
+497,Steven Weinberg,Harvard University,Cambridge,MA,USA,28,M,0,42.3750997,-71.1056157
+509,Walter Gilbert,Harvard University,Cambridge,MA,USA,1,M,0,42.3750997,-71.1056157
+517,Nicolaas Bloembergen,Harvard University,Cambridge,MA,USA,28,M,0,42.3750997,-71.1056157
+560,Franco Modigliani,Massachusetts Institute of Technology ,Cambridge,MA,USA,21,M,0,42.3750997,-71.1056157
+564,Dudley R. Herschbach,Harvard University,Cambridge,MA,USA,28,M,0,42.3750997,-71.1056157
+577,Susumu Tonegawa,Massachusetts Institute of Technology ,Cambridge,MA,USA,21,M,0,42.3750997,-71.1056157
+580,Robert M. Solow,Massachusetts Institute of Technology ,Cambridge,MA,USA,21,M,0,42.3750997,-71.1056157
+593,Norman F. Ramsey,Harvard University,Cambridge,MA,USA,28,M,0,42.3750997,-71.1056157
+603,Jerome I. Friedman,Massachusetts Institute of Technology ,Cambridge,MA,USA,21,M,0,42.3750997,-71.1056157
+604,Henry W. Kendall,Massachusetts Institute of Technology ,Cambridge,MA,USA,21,M,0,42.3750997,-71.1056157
+606,Elias James Corey,Harvard University,Cambridge,MA,USA,28,M,0,42.3750997,-71.1056157
+633,Phillip A. Sharp,Massachusetts Institute of Technology ,Cambridge,MA,USA,1,M,0,42.3750997,-71.1056157
+640,Clifford G. Shull,Massachusetts Institute of Technology ,Cambridge,MA,USA,21,M,0,42.3750997,-71.1056157
+654,Mario J. Molina,Massachusetts Institute of Technology ,Cambridge,MA,USA,21,M,0,42.3750997,-71.1056157
+686,Robert C. Merton,Harvard University,Cambridge,MA,USA,28,M,0,42.3750997,-71.1056157
+721,Wolfgang Ketterle,Massachusetts Institute of Technology ,Cambridge,MA,USA,21,M,0,42.3750997,-71.1056157
+742,H. Robert Horvitz,Massachusetts Institute of Technology ,Cambridge,MA,USA,21,M,0,42.3750997,-71.1056157
+761,Frank Wilczek,Massachusetts Institute of Technology ,Cambridge,MA,USA,21,M,0,42.3750997,-71.1056157
+771,Roy J. Glauber,Harvard University,Cambridge,MA,USA,28,M,0,42.3750997,-71.1056157
+776,Richard R. Schrock,Massachusetts Institute of Technology ,Cambridge,MA,USA,21,M,0,42.3750997,-71.1056157
+838,Peter A. Diamond,Massachusetts Institute of Technology ,Cambridge,MA,USA,21,M,0,42.3750997,-71.1056157
+862,Alvin E. Roth,Harvard University,Cambridge,MA,USA,28,M,0,42.3750997,-71.1056157
+866,Martin Karplus,Harvard University,Cambridge,MA,USA,28,M,0,42.3750997,-71.1056157
+910,Oliver Hart,Harvard University,Cambridge,MA,USA,28,M,0,42.3750997,-71.1056157
+911,Bengt Holmstrom,Massachusetts Institute of Technology ,Cambridge,MA,USA,21,M,0,42.3750997,-71.1056157
+912,Rainer Weiss,Massachusetts Institute of Technology ,Cambridge,MA,USA,21,M,0,42.3750997,-71.1056157
+948,Abhijit Banerjee,Massachusetts Institute of Technology ,Cambridge,MA,USA,21,M,0,42.3750997,-71.1056157
+949,Esther Duflo,Massachusetts Institute of Technology ,Cambridge,MA,USA,21,F,0,42.3750997,-71.1056157
+950,Michael Kremer,Harvard University,Cambridge,MA,USA,28,M,0,42.3750997,-71.1056157
+798,Oliver Smithies,University of North Carolina,Chapel Hill,NC,USA,2,M,0,35.9131542,-79.05578
+894,Aziz Sancar,University of North Carolina,Chapel Hill,NC,USA,2,M,0,35.9131542,-79.05578
+870,Randy W. Schekman,Howard Hughes Medical Institute,Chevy Chase,MD,USA,1,M,0,38.9822473,-77.0881873
+58401,Johann Deisenhofer,Howard Hughes Medical Institute,Chevy Chase,MD,USA,1,M,1,38.9822473,-77.0881873
+70301,Gunter Blobel,Howard Hughes Medical Institute,Chevy Chase,MD,USA,1,M,1,38.9822473,-77.0881873
+75201,Roderick MacKinnon,Howard Hughes Medical Institute,Chevy Chase,MD,USA,1,M,1,38.9822473,-77.0881873
+79601,Mario R. Capecchi,Howard Hughes Medical Institute,Chevy Chase,MD,USA,1,M,1,38.9822473,-77.0881873
+81001,Roger Y. Tsien,Howard Hughes Medical Institute,Chevy Chase,MD,USA,1,M,1,38.9822473,-77.0881873
+82101,Thomas A. Steitz,Howard Hughes Medical Institute,Chevy Chase,MD,USA,1,M,1,38.9822473,-77.0881873
+82502,Jack W. Szostak,Howard Hughes Medical Institute,Chevy Chase,MD,USA,1,M,1,38.9822473,-77.0881873
+85701,Robert J. Lefkowitz,Howard Hughes Medical Institute,Chevy Chase,MD,USA,1,M,1,38.9822473,-77.0881873
+87101,Thomas C. Sudhof,Howard Hughes Medical Institute,Chevy Chase,MD,USA,1,M,1,38.9822473,-77.0881873
+91901,Michael Rosbash,Howard Hughes Medical Institute,Chevy Chase,MD,USA,1,M,1,38.9822473,-77.0881873
+94303,William G. Kaelin Jr,Howard Hughes Medical Institute,Chevy Chase,MD,USA,1,M,1,38.9822473,-77.0881873
+38,Albert A. Michelson,University of Chicago,Chicago,IL,USA,18,M,0,41.8755616,-87.6244212
+134,Arthur H. Compton,University of Chicago,Chicago,IL,USA,18,M,0,41.8755616,-87.6244212
+372,Robert S. Mulliken,University of Chicago,Chicago,IL,USA,18,M,0,41.8755616,-87.6244212
+374,Charles B. Huggins,University of Chicago,Chicago,IL,USA,1,M,0,41.8755616,-87.6244212
+472,Milton Friedman,University of Chicago,Chicago,IL,USA,18,M,0,41.8755616,-87.6244212
+504,Theodore W. Schultz,University of Chicago,Chicago,IL,USA,18,M,0,41.8755616,-87.6244212
+506,James Cronin,University of Chicago,Chicago,IL,USA,18,M,0,41.8755616,-87.6244212
+536,George J. Stigler,University of Chicago,Chicago,IL,USA,18,M,0,41.8755616,-87.6244212
+537,Subramanyan Chandrasekhar,University of Chicago,Chicago,IL,USA,18,M,0,41.8755616,-87.6244212
+612,Merton H. Miller,University of Chicago,Chicago,IL,USA,18,M,0,41.8755616,-87.6244212
+620,Ronald H. Coase,University of Chicago,Chicago,IL,USA,18,M,0,41.8755616,-87.6244212
+627,Gary Becker,University of Chicago,Chicago,IL,USA,18,M,0,41.8755616,-87.6244212
+637,Robert W. Fogel,University of Chicago,Chicago,IL,USA,18,M,0,41.8755616,-87.6244212
+662,Robert E. Lucas Jr.,University of Chicago,Chicago,IL,USA,18,M,0,41.8755616,-87.6244212
+718,James J. Heckman,University of Chicago,Chicago,IL,USA,18,M,0,41.8755616,-87.6244212
+804,Roger B. Myerson,University of Chicago,Chicago,IL,USA,18,M,0,41.8755616,-87.6244212
+805,Yoichiro Nambu,University of Chicago,Chicago,IL,USA,1,M,0,41.8755616,-87.6244212
+874,Eugene F. Fama,University of Chicago,Chicago,IL,USA,18,M,0,41.8755616,-87.6244212
+875,Lars Peter Hansen,University of Chicago,Chicago,IL,USA,18,M,0,41.8755616,-87.6244212
+923,Richard H. Thaler,University of Chicago,Chicago,IL,USA,18,M,0,41.8755616,-87.6244212
+283,Frederick C. Robbins,Western Reserve University,Cleveland,OH,USA,1,M,0,41.5051613,-81.6934446
+540,Barbara McClintock,Cold Spring Harbor Laboratory,Cold Spring Harbor,NY,USA,1,F,0,40.8602595,-73.4476634
+783,Thomas C. Schelling,University of Maryland,College Park,MD,USA,1,M,0,38.980666,-76.9369189
+928,George P. Smith,University of Missouri,Columbia,MO,USA,1,M,0,38.951883,-92.3337366
+556,Michael S. Brown,University of Texas Southwestern Medical Center at Dallas,Dallas,TX,USA,5,M,0,32.7762719,-96.7968559
+557,Joseph L. Goldstein,University of Texas Southwestern Medical Center at Dallas,Dallas,TX,USA,5,M,0,32.7762719,-96.7968559
+584,Johann Deisenhofer,University of Texas Southwestern Medical Center at Dallas,Dallas,TX,USA,5,M,0,32.7762719,-96.7968559
+642,Alfred G. Gilman,University of Texas Southwestern Medical Center at Dallas,Dallas,TX,USA,5,M,0,32.7762719,-96.7968559
+709,Jack Kilby,Texas Instruments,Dallas,TX,USA,1,M,0,32.7762719,-96.7968559
+843,Bruce A. Beutler,University of Texas Southwestern Medical Center at Dallas,Dallas,TX,USA,5,M,0,32.7762719,-96.7968559
+857,Robert J. Lefkowitz,Duke University Medical Center,Durham,NC,USA,1,M,0,35.996653,-78.9018053
+893,Paul Modrich,Duke University School of Medicine,Durham,NC,USA,1,M,0,35.996653,-78.9018053
+89301,Paul Modrich,Howard Hughes Medical Institute,Durham,NC,USA,1,M,1,35.996653,-78.9018053
+692,John Pople,Northwestern University,Evanston,IL,USA,3,M,0,42.0447388,-87.6930459
+839,Dale T. Mortensen,Northwestern University,Evanston,IL,USA,3,M,0,42.0447388,-87.6930459
+905,Sir J. Fraser Stoddart,Northwestern University,Evanston,IL,USA,3,M,0,42.0447388,-87.6930459
+571,James M. Buchanan Jr.,Center for Study of Public Choice,Fairfax,VA,USA,1,M,0,38.8462236,-77.3063733
+747,Vernon L. Smith,George Mason University,Fairfax,VA,USA,1,M,0,38.8462236,-77.3063733
+678,William D. Phillips,National Institute of Standards and Technology,Gaithersburg,MD,USA,1,M,0,39.1434406,-77.2013705
+784,John C. Mather,NASA Goddard Space Flight Center,Greenbelt,MD,USA,1,M,0,38.9937333,-76.8830658
+687,Myron Scholes,Long Term Capital Management,Greenwich,CT,USA,1,M,0,41.0264862,-73.6284598
+485,Arno Penzias,Bell Laboratories,Holmdel,NJ,USA,3,M,0,40.3451095,-74.1840322
+486,Robert Woodrow Wilson,Bell Laboratories,Holmdel,NJ,USA,3,M,0,40.3451095,-74.1840322
+924,Arthur Ashkin,Bell Laboratories,Holmdel,NJ,USA,3,M,0,40.3451095,-74.1840322
+666,Robert F. Curl Jr.,Rice University,Houston,TX,USA,2,M,0,29.7589382,-95.3676974
+668,Richard E. Smalley,Rice University,Houston,TX,USA,2,M,0,29.7589382,-95.3676974
+695,Ferid Murad,University of Texas Medical School,Houston,TX,USA,1,M,0,29.7589382,-95.3676974
+930,James P. Allison,University of Texas,Houston,TX,USA,1,M,0,29.7589382,-95.3676974
+652,Frederick Reines,University of California,Irvine,CA,USA,3,M,0,33.6856969,-117.8259819
+655,F. Sherwood Rowland,University of California,Irvine,CA,USA,3,M,0,33.6856969,-117.8259819
+764,Irwin Rose,University of California,Irvine,CA,USA,3,M,0,33.6856969,-117.8259819
+226,James B. Sumner,Cornell University,Ithaca,NY,USA,8,M,0,42.4396039,-76.4968019
+289,Vincent du Vigneaud,Cornell University,Ithaca,NY,USA,8,M,0,42.4396039,-76.4968019
+377,Hans Bethe,Cornell University,Ithaca,NY,USA,8,M,0,42.4396039,-76.4968019
+387,Robert W. Holley,Cornell University,Ithaca,NY,USA,8,M,0,42.4396039,-76.4968019
+521,Roald Hoffmann,Cornell University,Ithaca,NY,USA,8,M,0,42.4396039,-76.4968019
+528,Kenneth G. Wilson,Cornell University,Ithaca,NY,USA,8,M,0,42.4396039,-76.4968019
+663,David M. Lee,Cornell University,Ithaca,NY,USA,8,M,0,42.4396039,-76.4968019
+665,Robert C. Richardson,Cornell University,Ithaca,NY,USA,8,M,0,42.4396039,-76.4968019
+725,Barry Sharpless,The Scripps Research Institute,La Jolla,CA,USA,3,M,0,32.83259,-117.2716839
+845,Bruce A. Beutler,The Scripps Research Institute,La Jolla,CA,USA,3,M,0,32.83259,-117.2716839
+74001,Kurt Wuthrich,The Scripps Research Institute,La Jolla,CA,USA,3,M,1,32.83259,-117.2716839
+324,Willard F. Libby,University of California,Los Angeles,CA,USA,5,M,0,34.0536909,-118.242766
+574,Donald J. Cram,University of California,Los Angeles,CA,USA,5,M,0,34.0536909,-118.242766
+641,George A. Olah,University of Southern California,Los Angeles,CA,USA,2,M,0,34.0536909,-118.242766
+679,Paul D. Boyer,University of California,Los Angeles,CA,USA,5,M,0,34.0536909,-118.242766
+694,Louis J. Ignarro,University of California,Los Angeles,CA,USA,1,M,0,34.0536909,-118.242766
+863,Lloyd S. Shapley,University of California,Los Angeles,CA,USA,5,M,0,34.0536909,-118.242766
+868,Arieh Warshel,University of Southern California,Los Angeles,CA,USA,2,M,0,34.0536909,-118.242766
+953,Andrea Ghez,University of California,Los Angeles,CA,USA,5,F,0,34.0536909,-118.242766
+895,William C. Campbell,Drew University,Madison,NJ,USA,1,M,0,40.7598227,-74.417097
+313,Joshua Lederberg,University of Wisconsin,Madison,WI,USA,3,M,0,43.074761,-89.3837613
+388,H. Gobind Khorana,University of Wisconsin,Madison,WI,USA,3,M,0,43.074761,-89.3837613
+459,Howard M. Temin,University of Wisconsin,Madison,WI,USA,3,M,0,43.074761,-89.3837613
+918,Jeffrey C. Hall,University of Maine,Maine,ME,USA,1,M,0,42.1925746,-76.0610361
+808,Osamu Shimomura,Boston University Medical School,Massachusetts,MA,USA,1,M,0,39.7729923,-86.1514013
+500,Allan M. Cormack,Tufts University,Medford,MA,USA,1,M,0,42.4184296,-71.1061639
+669,Peter C. Doherty,St. Jude Children's Research Hospital,Memphis,TN,USA,1,M,0,35.1490215,-90.0516285
+802,Leonid Hurwicz,University of Minnesota,Minneapolis,MN,USA,1,M,0,44.9772995,-93.2654692
+77001,Edward C. Prescott,Federal Reserve Bank of Minneapolis,Minneapolis,MN,USA,1,M,1,44.9772995,-93.2654692
+294,William B. Shockley,Semiconductor Laboratory of Beckman Instruments Inc.,Mountain View,CA,USA,1,M,0,37.3893889,-122.0832101
+582,Melvin Schwartz,Digital Pathways Inc.,Mountain View,CA,USA,1,M,0,37.3893889,-122.0832101
+293,Walter H. Brattain,Bell Laboratories,Murray Hill,NJ,USA,2,M,0,40.6953793,-74.4009849
+473,Philip W. Anderson,Bell Laboratories,Murray Hill,NJ,USA,2,M,0,40.6953793,-74.4009849
+818,Willard S. Boyle,Bell Laboratories,Murray Hill,NJ,USA,2,M,0,40.6953793,-74.4009849
+819,George E. Smith,Bell Laboratories,Murray Hill,NJ,USA,2,M,0,40.6953793,-74.4009849
+413,"Earl W. Sutherland, Jr.",Vanderbilt University,Nashville,TN,USA,1,M,0,36.1622296,-86.7743531
+567,Stanley Cohen,Vanderbilt University School of Medicine,Nashville,TN,USA,1,M,0,36.1622296,-86.7743531
+270,Selman A. Waksman,Rutgers University,New Brunswick,NJ,USA,1,M,0,40.4862174,-74.4518173
+386,Lars Onsager,Yale University,New Haven,CT,USA,8,M,0,41.2984343,-72.9310234
+445,George E. Palade,Yale University,New Haven,CT,USA,1,M,0,41.2984343,-72.9310234
+463,Tjalling C. Koopmans,Yale University,New Haven,CT,USA,8,M,0,41.2984343,-72.9310234
+527,James Tobin,Yale University,New Haven,CT,USA,8,M,0,41.2984343,-72.9310234
+596,Sidney Altman,Yale University,New Haven,CT,USA,8,M,0,41.2984343,-72.9310234
+821,Thomas A. Steitz,Yale University,New Haven,CT,USA,8,M,0,41.2984343,-72.9310234
+869,James E. Rothman,Yale University,New Haven,CT,USA,8,M,0,41.2984343,-72.9310234
+876,Robert J. Shiller,Yale University,New Haven,CT,USA,8,M,0,41.2984343,-72.9310234
+935,William D. Nordhaus,Yale University,New Haven,CT,USA,8,M,0,41.2984343,-72.9310234
+478,Andrew V. Schally,Veterans Administration Hospital,New Orleans,LA,USA,1,M,0,29.9499323,-90.0701156
+72,Alexis Carrel,Rockefeller Institute for Medical Research,New York,NY,USA,4,M,0,40.7127281,-74.0060152
+154,Karl Landsteiner,Rockefeller Institute for Medical Research,New York,NY,USA,4,M,0,40.7127281,-74.0060152
+173,Harold C. Urey,Columbia University,New York,NY,USA,17,M,0,40.7127281,-74.0060152
+191,Clinton Davisson,Bell Laboratories,New York,NY,USA,1,M,0,40.7127281,-74.0060152
+212,Isidor Isaac Rabi,Columbia University,New York,NY,USA,17,M,0,40.7127281,-74.0060152
+215,Herbert S. Gasser,Rockefeller Institute for Medical Research,New York,NY,USA,4,M,0,40.7127281,-74.0060152
+245,Hideki Yukawa,Columbia University,New York,NY,USA,17,M,0,40.7127281,-74.0060152
+263,Max Theiler,Rockefeller Foundation,New York,NY,USA,1,M,0,40.7127281,-74.0060152
+288,Polykarp Kusch,Columbia University,New York,NY,USA,17,M,0,40.7127281,-74.0060152
+297,Andre F. Cournand,Columbia University,New York,NY,USA,1,M,0,40.7127281,-74.0060152
+299,Dickinson W. Richards,Columbia University,New York,NY,USA,17,M,0,40.7127281,-74.0060152
+302,Tsung-Dao Lee,Columbia University,New York,NY,USA,17,M,0,40.7127281,-74.0060152
+312,Edward Tatum,Rockefeller Institute for Medical Research,New York,NY,USA,4,M,0,40.7127281,-74.0060152
+320,Severo Ochoa,New York University,New York,NY,USA,1,M,0,40.7127281,-74.0060152
+373,Peyton Rous,Rockefeller University,New York,NY,USA,13,M,0,40.7127281,-74.0060152
+382,Keffer Hartline,Rockefeller University,New York,NY,USA,13,M,0,40.7127281,-74.0060152
+396,Alfred D. Hershey,Carnegie Institution of Washington,New York,NY,USA,1,M,0,40.7127281,-74.0060152
+421,Stanford Moore,Rockefeller University,New York,NY,USA,13,M,0,40.7127281,-74.0060152
+422,William H. Stein,Rockefeller University,New York,NY,USA,13,M,0,40.7127281,-74.0060152
+423,Gerald M. Edelman,Rockefeller University,New York,NY,USA,13,M,0,40.7127281,-74.0060152
+444,Christian de Duve,Rockefeller University,New York,NY,USA,13,M,0,40.7127281,-74.0060152
+454,James Rainwater,Columbia University,New York,NY,USA,17,M,0,40.7127281,-74.0060152
+546,Bruce Merrifield,Rockefeller University,New York,NY,USA,13,M,0,40.7127281,-74.0060152
+611,Harry M. Markowitz,City University of New York,New York,NY,USA,1,M,0,40.7127281,-74.0060152
+675,William Vickrey,Columbia University,New York,NY,USA,17,M,0,40.7127281,-74.0060152
+689,Horst L. Stormer,Columbia University,New York,NY,USA,17,M,0,40.7127281,-74.0060152
+703,Gunter Blobel,Rockefeller University,New York,NY,USA,13,M,0,40.7127281,-74.0060152
+706,Robert Mundell,Columbia University,New York,NY,USA,17,M,0,40.7127281,-74.0060152
+714,Paul Greengard,Rockefeller University,New York,NY,USA,13,M,0,40.7127281,-74.0060152
+715,Eric Kandel,Columbia University,New York,NY,USA,17,M,0,40.7127281,-74.0060152
+734,Joseph E. Stiglitz,Columbia University,New York,NY,USA,17,M,0,40.7127281,-74.0060152
+752,Roderick MacKinnon,Rockefeller University,New York,NY,USA,13,M,0,40.7127281,-74.0060152
+757,Robert F. Engle III,New York University,New York,NY,USA,2,M,0,40.7127281,-74.0060152
+765,Richard Axel,Columbia University,New York,NY,USA,17,M,0,40.7127281,-74.0060152
+792,Edmund S. Phelps,Columbia University,New York,NY,USA,17,M,0,40.7127281,-74.0060152
+809,Martin Chalfie,Columbia University,New York,NY,USA,17,M,0,40.7127281,-74.0060152
+852,Thomas J. Sargent,New York University,New York,NY,USA,2,M,0,40.7127281,-74.0060152
+916,Joachim Frank,Columbia University,New York,NY,USA,17,M,0,40.7127281,-74.0060152
+920,Michael W. Young,Rockefeller University,New York,NY,USA,13,M,0,40.7127281,-74.0060152
+936,Paul M. Romer,NYU Stern School of Business,New York,NY,USA,1,M,0,40.7127281,-74.0060152
+941,M. Stanley Whittingham,Binghamton University-SUNY,New York,NY,USA,1,M,0,40.7127281,-74.0060152
+958,Charles M. Rice,Rockefeller University,New York,NY,USA,13,M,0,40.7127281,-74.0060152
+84701,Ralph M. Steinman,Rockefeller University,New York,NY,USA,13,M,1,40.7127281,-74.0060152
+832,Richard F. Heck,University of Delaware,Newark,DE,USA,1,M,0,39.6852191,-75.7508289
+114,Robert A. Millikan,California Institute of Technology ,Pasadena,CA,USA,20,M,0,34.1476452,-118.1444779
+170,Thomas H. Morgan,California Institute of Technology ,Pasadena,CA,USA,20,M,0,34.1476452,-118.1444779
+185,Carl D. Anderson,California Institute of Technology ,Pasadena,CA,USA,20,M,0,34.1476452,-118.1444779
+281,Linus Pauling,California Institute of Technology ,Pasadena,CA,USA,20,M,0,34.1476452,-118.1444779
+311,George Beadle,California Institute of Technology ,Pasadena,CA,USA,20,M,0,34.1476452,-118.1444779
+330,Rudolf Mossbauer,California Institute of Technology ,Pasadena,CA,USA,20,M,0,34.1476452,-118.1444779
+364,Richard P. Feynman,California Institute of Technology ,Pasadena,CA,USA,20,M,0,34.1476452,-118.1444779
+392,Murray Gell-Mann,California Institute of Technology ,Pasadena,CA,USA,20,M,0,34.1476452,-118.1444779
+395,Max Delbruck,California Institute of Technology ,Pasadena,CA,USA,20,M,0,34.1476452,-118.1444779
+522,Roger W. Sperry,California Institute of Technology ,Pasadena,CA,USA,20,M,0,34.1476452,-118.1444779
+538,William A. Fowler,California Institute of Technology ,Pasadena,CA,USA,20,M,0,34.1476452,-118.1444779
+622,Rudolph A. Marcus,California Institute of Technology ,Pasadena,CA,USA,20,M,0,34.1476452,-118.1444779
+656,Edward B. Lewis,California Institute of Technology ,Pasadena,CA,USA,20,M,0,34.1476452,-118.1444779
+702,Ahmed Zewail,California Institute of Technology ,Pasadena,CA,USA,20,M,0,34.1476452,-118.1444779
+760,H. David Politzer,California Institute of Technology ,Pasadena,CA,USA,20,M,0,34.1476452,-118.1444779
+775,Robert H. Grubbs,California Institute of Technology ,Pasadena,CA,USA,20,M,0,34.1476452,-118.1444779
+913,Barry C. Barish,California Institute of Technology ,Pasadena,CA,USA,20,M,0,34.1476452,-118.1444779
+914,Kip S. Thorne,California Institute of Technology ,Pasadena,CA,USA,20,M,0,34.1476452,-118.1444779
+927,Frances H. Arnold,California Institute of Technology ,Pasadena,CA,USA,20,F,0,34.1476452,-118.1444779
+419,Robert Schrieffer,University of Pennsylvania,Philadelphia,PA,USA,4,M,0,39.9527237,-75.1635262
+467,Baruch S. Blumberg,The Institute for Cancer Research,Philadelphia,PA,USA,1,M,0,39.9527237,-75.1635262
+516,Lawrence R. Klein,University of Pennsylvania,Philadelphia,PA,USA,4,M,0,39.9527237,-75.1635262
+711,Alan MacDiarmid,University of Pennsylvania,Philadelphia,PA,USA,4,M,0,39.9527237,-75.1635262
+735,Raymond Davis Jr.,University of Pennsylvania,Philadelphia,PA,USA,4,M,0,39.9527237,-75.1635262
+208,Otto Stern,Carnegie Institute of Technology,Pittsburgh,PA,USA,1,M,0,40.4416941,-79.9900861
+494,Herbert Simon,Carnegie Mellon University,Pittsburgh,PA,USA,2,M,0,40.4416941,-79.9900861
+769,Finn E. Kydland,Carnegie Mellon University,Pittsburgh,PA,USA,2,M,0,40.4416941,-79.9900861
+218,Wolfgang Pauli,Princeton University,Princeton,NJ,USA,15,M,0,40.3492744,-74.6592958
+227,John H. Northrop,Rockefeller Institute for Medical Research,Princeton,NJ,USA,2,M,0,40.3492744,-74.6592958
+228,Wendell M. Stanley,Rockefeller Institute for Medical Research,Princeton,NJ,USA,2,M,0,40.3492744,-74.6592958
+301,Chen Ning Yang,Institute for Advanced Study,Princeton,NJ,USA,2,M,0,40.3492744,-74.6592958
+343,Eugene Wigner,Princeton University,Princeton,NJ,USA,15,M,0,40.3492744,-74.6592958
+505,Sir Arthur Lewis,Princeton University,Princeton,NJ,USA,15,M,0,40.3492744,-74.6592958
+507,Val Fitch,Princeton University,Princeton,NJ,USA,15,M,0,40.3492744,-74.6592958
+628,Russell A. Hulse,Princeton University,Princeton,NJ,USA,15,M,0,40.3492744,-74.6592958
+629,Joseph H. Taylor Jr.,Princeton University,Princeton,NJ,USA,15,M,0,40.3492744,-74.6592958
+649,John F. Nash Jr.,Princeton University,Princeton,NJ,USA,15,M,0,40.3492744,-74.6592958
+658,Eric F. Wieschaus,Princeton University,Princeton,NJ,USA,15,M,0,40.3492744,-74.6592958
+690,Daniel C. Tsui,Princeton University,Princeton,NJ,USA,15,M,0,40.3492744,-74.6592958
+746,Daniel Kahneman,Princeton University,Princeton,NJ,USA,15,M,0,40.3492744,-74.6592958
+803,Eric S. Maskin,Institute for Advanced Study,Princeton,NJ,USA,2,M,0,40.3492744,-74.6592958
+816,Paul Krugman,Princeton University,Princeton,NJ,USA,15,M,0,40.3492744,-74.6592958
+853,Christopher A. Sims,Princeton University,Princeton,NJ,USA,15,M,0,40.3492744,-74.6592958
+900,Angus Deaton,Princeton University,Princeton,NJ,USA,15,M,0,40.3492744,-74.6592958
+902,F. Duncan M. Haldane,Princeton University,Princeton,NJ,USA,15,M,0,40.3492744,-74.6592958
+937,James Peebles,Princeton University,Princeton,NJ,USA,15,M,0,40.3492744,-74.6592958
+418,Leon N. Cooper,Brown University,Providence,RI,USA,2,M,0,41.8239891,-71.4128343
+903,J. Michael Kosterlitz,Brown University,Providence,RI,USA,2,M,0,41.8239891,-71.4128343
+588,Gertrude B. Elion,Wellcome Research Laboratories,Research Triangle Park,NC,USA,2,F,0,35.9056978,-78.8748242
+589,George H. Hitchings,Wellcome Research Laboratories,Research Triangle Park,NC,USA,2,M,0,35.9056978,-78.8748242
+643,Martin Rodbell,National Institute of Environmental Health Sciences,Research Triangle Park,NC,USA,1,M,0,35.9056978,-78.8748242
+738,John B. Fenn,Virginia Commonwealth University,Richmond,VA,USA,1,M,0,37.5385087,-77.43428
+254,Philip S. Hench,Mayo Clinic,Rochester,MN,USA,2,M,0,44.0234387,-92.4630182
+255,Edward C. Kendall,Mayo Clinic,Rochester,MN,USA,2,M,0,44.0234387,-92.4630182
+174,George H. Whipple,University of Rochester,Rochester,NY,USA,1,M,0,43.157285,-77.615214
+796,Mario R. Capecchi,University of Utah,Salt Lake City,UT,USA,1,M,0,40.7596198,-111.8867975
+344,Maria Goeppert Mayer,University of California,San Diego,CA,USA,3,F,0,32.7174202,-117.1627728
+477,Roger Guillemin,The Salk Institute,San Diego,CA,USA,1,M,0,32.7174202,-117.1627728
+758,Clive W.J. Granger,University of California,San Diego,CA,USA,3,M,0,32.7174202,-117.1627728
+810,Roger Y. Tsien,University of California,San Diego,CA,USA,3,M,0,32.7174202,-117.1627728
+598,J. Michael Bishop,University of California,San Francisco,CA,USA,3,M,0,37.7790262,-122.419906
+599,Harold E. Varmus,University of California,San Francisco,CA,USA,3,M,0,37.7790262,-122.419906
+682,Stanley B. Prusiner,University of California,San Francisco,CA,USA,3,M,0,37.7790262,-122.419906
+823,Elizabeth H. Blackburn,University of California,San Francisco,CA,USA,1,F,0,37.7790262,-122.419906
+85901,Shinya Yamanaka,Gladstone Institutes,San Francisco,CA,USA,1,M,1,37.7790262,-122.419906
+93001,James P. Allison,Parker Institute for Cancer Immunotherapy,San Francisco,CA,USA,1,M,1,37.7790262,-122.419906
+691,Walter Kohn,University of California,Santa Barbara,CA,USA,5,M,0,34.4221319,-119.7026673
+708,Herbert Kroemer,University of California,Santa Barbara,CA,USA,5,M,0,34.4221319,-119.7026673
+710,Alan Heeger,University of California,Santa Barbara,CA,USA,5,M,0,34.4221319,-119.7026673
+759,David J. Gross,University of California,Santa Barbara,CA,USA,1,M,0,34.4221319,-119.7026673
+879,Shuji Nakamura,University of California,Santa Barbara,CA,USA,5,M,0,34.4221319,-119.7026673
+76901,Finn E. Kydland,University of California,Santa Barbara,CA,USA,5,M,1,34.4221319,-119.7026673
+164,Irving Langmuir,General Electric Company,Schenectady,NY,USA,2,M,0,42.8142432,-73.9395687
+429,Ivar Giaever,General Electric Company,Schenectady,NY,USA,2,M,0,42.8142432,-73.9395687
+594,Hans G. Dehmelt,University of Washington,Seattle,WA,USA,4,M,0,47.6038321,-122.3300624
+608,E. Donnall Thomas,Fred Hutchinson Cancer Research Center,Seattle,WA,USA,3,M,0,47.6038321,-122.3300624
+623,Edmond H. Fischer,University of Washington,Seattle,WA,USA,4,M,0,47.6038321,-122.3300624
+624,Edwin G. Krebs,University of Washington,Seattle,WA,USA,4,M,0,47.6038321,-122.3300624
+726,Leland Hartwell,Fred Hutchinson Cancer Research Center,Seattle,WA,USA,3,M,0,47.6038321,-122.3300624
+766,Linda B. Buck,Fred Hutchinson Cancer Research Center,Seattle,WA,USA,3,F,0,47.6038321,-122.3300624
+901,David J. Thouless,University of Washington,Seattle,WA,USA,4,M,0,47.6038321,-122.3300624
+211,Edward A. Doisy,Saint Louis University,St.Louis,MO,USA,1,M,0,38.6264178,-90.1998378
+214,Joseph Erlanger,Washington University,St.Louis,MO,USA,4,M,0,38.6264178,-90.1998378
+235,Carl Cori,Washington University,St.Louis,MO,USA,4,M,0,38.6264178,-90.1998378
+236,Gerty Cori,Washington University,St.Louis,MO,USA,4,F,0,38.6264178,-90.1998378
+638,Douglass C. North,Washington University,St.Louis,MO,USA,4,M,0,38.6264178,-90.1998378
+266,Felix Bloch,Stanford University,Stanford,CA,USA,20,M,0,37.4383017,-122.1561814
+287,Willis E. Lamb,Stanford University,Stanford,CA,USA,20,M,0,37.4383017,-122.1561814
+319,Arthur Kornberg,Stanford University,Stanford,CA,USA,20,M,0,37.4383017,-122.1561814
+329,Robert Hofstadter,Stanford University,Stanford,CA,USA,20,M,0,37.4383017,-122.1561814
+442,Paul J. Flory,Stanford University,Stanford,CA,USA,20,M,0,37.4383017,-122.1561814
+464,Burton Richter,Stanford Linear Accelerator Center,Stanford,CA,USA,1,M,0,37.4383017,-122.1561814
+508,Paul Berg,Stanford University,Stanford,CA,USA,20,M,0,37.4383017,-122.1561814
+518,Arthur L. Schawlow,Stanford University,Stanford,CA,USA,20,M,0,37.4383017,-122.1561814
+539,Henry Taube,Stanford University,Stanford,CA,USA,20,M,0,37.4383017,-122.1561814
+605,Richard E. Taylor,Stanford University,Stanford,CA,USA,20,M,0,37.4383017,-122.1561814
+613,William F. Sharpe,Stanford University,Stanford,CA,USA,20,M,0,37.4383017,-122.1561814
+651,Martin L. Perl,Stanford University,Stanford,CA,USA,20,M,0,37.4383017,-122.1561814
+664,Douglas D. Osheroff,Stanford University,Stanford,CA,USA,20,M,0,37.4383017,-122.1561814
+676,Steven Chu,Stanford University,Stanford,CA,USA,20,M,0,37.4383017,-122.1561814
+688,Robert B. Laughlin,Stanford University,Stanford,CA,USA,20,M,0,37.4383017,-122.1561814
+733,A. Michael Spence,Stanford University,Stanford,CA,USA,20,M,0,37.4383017,-122.1561814
+786,Roger D. Kornberg,Stanford University,Stanford,CA,USA,20,M,0,37.4383017,-122.1561814
+787,Andrew Z. Fire,Stanford University,Stanford,CA,USA,3,M,0,37.4383017,-122.1561814
+856,Brian Kobilka,Stanford University,Stanford,CA,USA,3,M,0,37.4383017,-122.1561814
+867,Michael Levitt,Stanford University,Stanford,CA,USA,3,M,0,37.4383017,-122.1561814
+871,Thomas C. Sudhof,Stanford University,Stanford,CA,USA,20,M,0,37.4383017,-122.1561814
+882,William E. Moerner,Stanford University,Stanford,CA,USA,20,M,0,37.4383017,-122.1561814
+961,Paul R. Milgrom,Stanford University,Stanford,CA,USA,20,M,0,37.4383017,-122.1561814
+962,Robert B. Wilson,Stanford University,Stanford,CA,USA,20,M,0,37.4383017,-122.1561814
+770,Edward C. Prescott,Arizona State University,Tempe,AZ,USA,2,M,0,33.4255056,-111.9400091
+828,Elinor Ostrom,Arizona State University,Tempe,AZ,USA,2,F,0,33.4255056,-111.9400091
+292,John Bardeen,University of Illinois,Urbana,IL,USA,4,M,0,40.1117174,-88.207301
+417,John Bardeen,University of Illinois,Urbana,IL,USA,4,M,0,40.1117174,-88.207301
+750,Anthony J. Leggett,University of Illinois,Urbana,IL,USA,4,M,0,40.1117174,-88.207301
+753,Paul C. Lauterbur,University of Illinois,Urbana,IL,USA,4,M,0,40.1117174,-88.207301
+919,Michael Rosbash,Brandeis University,Waltham,MA,USA,1,M,0,42.3756401,-71.2358004
+555,Jerome Karle,US Naval Research Laboratory,Washington,DC,USA,1,M,0,38.8950368,-77.0365427
+737,Riccardo Giacconi,Associated Universities Inc.,Washington,DC,USA,1,M,0,38.8950368,-77.0365427
+498,Herbert C. Brown,Purdue University,West Lafayette,IN,USA,2,M,0,40.4258686,-86.9080655
+833,Ei-ichi Negishi,Purdue University,West Lafayette,IN,USA,2,M,0,40.4258686,-86.9080655
+576,Charles J. Pedersen,Du Pont,Wilmington,DE,USA,1,M,0,39.7459468,-75.546589
+80801,Osamu Shimomura,Marine Biological Laboratory ,WoodsHole,MA,USA,1,M,1,41.547974,-70.644571
+788,Craig C. Mello,University of Massachusetts Medical School,Worcester,MA,USA,1,M,0,42.2625621,-71.8018877
+428,Leo Esaki,IBM Thomas J. Watson Research Center,Yorktown Heights,NY,USA,1,M,0,41.2695965,-73.7752704
+681,Jens C. Skou,Aarhus University,Aarhus,,Denmark,2,M,0,56.1496278,10.2134046
+83901,Dale T. Mortensen,Aarhus University,Aarhus,,Denmark,2,M,1,56.1496278,10.2134046
+8,Pieter Zeeman,Amsterdam University,Amsterdam,,the Netherlands,2,M,0,52.3727598,4.8936041
+58,Johannes Diderik van der Waals,Amsterdam University,Amsterdam,,the Netherlands,2,M,0,52.3727598,4.8936041
+243,Paul Muller,Laboratorium der Farben-Fabriken J.R. Geigy A.G. ,Basel,,Switzerland,1,M,0,47.5581077,7.5878261
+256,Tadeus Reichstein,Basel University,Basel,,Switzerland,1,M,0,47.5581077,7.5878261
+488,Werner Arber,Biozentrum der Universitat,Basel,,Switzerland,1,M,0,47.5581077,7.5878261
+547,Niels K. Jerne,Basel Institute for Immunology,Basel,,Switzerland,2,M,0,47.5581077,7.5878261
+548,Georges J.F. Kohler,Basel Institute for Immunology,Basel,,Switzerland,2,M,0,47.5581077,7.5878261
+532,John R. Vane,The Wellcome Research Laboratories,Beckenham,,United Kingdom,1,M,0,51.4070938,-0.0303183
+897,Tu Youyou,China Academy of Traditional Chinese Medicine,Beijing,,China,1,F,0,39.906217,116.3912757
+2,Jacobus H. van 't Hoff,Berlin University,Berlin,,Germany,7,M,0,52.5170365,13.3888599
+9,Emil Fischer,Berlin University,Berlin,,Germany,7,M,0,52.5170365,13.3888599
+29,Robert Koch,Institute for Infectious Diseases,Berlin,,Germany,1,M,0,52.5170365,13.3888599
+39,Eduard Buchner,Landwirtschaftliche Hochschule ,Berlin,,Germany,1,M,0,52.5170365,13.3888599
+92,Max Planck,Berlin University,Berlin,,Germany,7,M,0,52.5170365,13.3888599
+99,Walther Nernst,Berlin University,Berlin,,Germany,7,M,0,52.5170365,13.3888599
+103,Albert Einstein,Max-Planck Institut,Berlin,,Germany,2,M,0,52.5170365,13.3888599
+168,Erwin Schrodinger,Berlin University,Berlin,,Germany,7,M,0,52.5170365,13.3888599
+186,Peter Debye,Berlin University,Berlin,,Germany,7,M,0,52.5170365,13.3888599
+204,Adolf Butenandt,Berlin University,Berlin,,Germany,7,M,0,52.5170365,13.3888599
+561,Ernst Ruska,Fritz-Haber-Institut der Max-Planck-Gesellschaft,Berlin,,Germany,2,M,0,52.5170365,13.3888599
+795,Gerhard Ertl,Fritz-Haber-Institut der Max-Planck-Gesellschaft,Berlin,,Germany,2,M,0,52.5170365,13.3888599
+954,Emmanuelle Charpentier,Max-Planck Institut,Berlin,,Germany,1,F,0,52.5170365,13.3888599
+18601,Peter Debye,Max-Planck Institut,Berlin,,Germany,2,M,1,52.5170365,13.3888599
+93,Fritz Haber,Fritz-Haber-Institut,Berlin-Dahlem,,Germany,1,M,0,52.4662332,13.2982478
+159,Otto Warburg,Max-Planck Institut,Berlin-Dahlem,,Germany,1,M,0,52.4662332,13.2982478
+213,Otto Hahn,Max-Planck Institut,Berlin-Dahlem,,Germany,1,M,0,52.4662332,13.2982478
+20401,Adolf Butenandt,Max-Planck Institut,Berlin-Dahlem,,Germany,1,M,1,52.4662332,13.2982478
+54,Theodor Kocher,Berne University,Bern,,Switzerland,1,M,0,46.9482713,7.4514512
+193,Norman Haworth,Birmingham University,Birmingham,,United Kingdom,1,M,0,52.4796992,-1.9026911
+487,Peter Mitchell,Glynn Research Laboratories,Bodmin,,United Kingdom,1,M,0,50.470725,-4.7243205
+595,Wolfgang Paul,University of Bonn,Bonn,,Germany,1,M,0,50.735851,7.10066
+650,Reinhard Selten,Rheinische Friedrich-Wilhelms-Universitat,Bonn,,Germany,1,M,0,50.735851,7.10066
+182,Hans Spemann,University of Freiburg im Breisgau,Breisgau,,Germany,1,M,0,47.9960901,7.8494005
+274,Hermann Staudinger,University of Freiburg,Breisgau,,Germany,1,M,0,47.9960901,7.8494005
+455,John Cornforth,University of Sussex,Brighton,,United Kingdom,2,M,0,50.8214626,-0.1400561
+667,Sir Harold Kroto,University of Sussex,Brighton,,United Kingdom,2,M,0,50.8214626,-0.1400561
+251,Cecil Powell,Bristol University,Bristol,,United Kingdom,1,M,0,51.4538022,-2.5972985
+95,Jules Bordet,Brussels University,Brussels,,Belgium,1,M,0,50.8465573,4.351697
+864,Francois Englert,Universite Libre de Bruxelles,Brussels,,Belgium,2,M,0,50.8465573,4.351697
+47601,Ilya Prigogine,Universite Libre de Bruxelles,Brussels,,Belgium,2,M,1,50.8465573,4.351697
+269,Richard L.M. Synge,Rowett Research Institute,Bucksburn,,United Kingdom,1,M,0,57.1771092,-2.1824135
+237,Bernardo Houssay,Instituto de Biologia y Medicina Experimental ,Buenos Aires,,Argentina,1,M,0,-34.6075682,-58.4370894
+404,Luis Leloir,Institute for Biochemical Research,BuenosAires,,Argentina,1,M,0,-34.6075682,-58.4370894
+537,Sir Chandrasekhara Venkata Raman,Calcutta University,Calcutta,,India,1,M,0,22.5726723,88.3638815
+32,J.J. Thomson,University of Cambridge,Cambridge,,United Kingdom,18,M,0,52.2034823,0.1235817
+109,Francis W. Aston,University of Cambridge,Cambridge,,United Kingdom,18,M,0,52.2034823,0.1235817
+135,C.T.R. Wilson,University of Cambridge,Cambridge,,United Kingdom,18,M,0,52.2034823,0.1235817
+149,Sir Frederick Hopkins,University of Cambridge,Cambridge,,United Kingdom,18,M,0,52.2034823,0.1235817
+166,Edgar Adrian,University of Cambridge,Cambridge,,United Kingdom,18,M,0,52.2034823,0.1235817
+169,Paul A.M. Dirac,University of Cambridge,Cambridge,,United Kingdom,18,M,0,52.2034823,0.1235817
+303,Lord Todd,University of Cambridge,Cambridge,,United Kingdom,18,M,0,52.2034823,0.1235817
+310,Frederick Sanger,MRC Laboratory of Molecular Biology,Cambridge,,United Kingdom,10,M,0,52.2034823,0.1235817
+336,Max F. Perutz,MRC Laboratory of Molecular Biology,Cambridge,,United Kingdom,10,M,0,52.2034823,0.1235817
+337,John C. Kendrew,MRC Laboratory of Molecular Biology,Cambridge,,United Kingdom,10,M,0,52.2034823,0.1235817
+338,Francis Crick,MRC Laboratory of Molecular Biology,Cambridge,,United Kingdom,10,M,0,52.2034823,0.1235817
+349,Alan Hodgkin,University of Cambridge,Cambridge,,United Kingdom,18,M,0,52.2034823,0.1235817
+379,Ronald G.W. Norrish,Institute of Physical Chemistry,Cambridge,,United Kingdom,1,M,0,52.2034823,0.1235817
+430,Brian D. Josephson,University of Cambridge,Cambridge,,United Kingdom,18,M,0,52.2034823,0.1235817
+440,Martin Ryle,University of Cambridge,Cambridge,,United Kingdom,18,M,0,52.2034823,0.1235817
+441,Antony Hewish,University of Cambridge,Cambridge,,United Kingdom,18,M,0,52.2034823,0.1235817
+474,Sir Nevill F. Mott,University of Cambridge,Cambridge,,United Kingdom,18,M,0,52.2034823,0.1235817
+483,James E. Meade,University of Cambridge,Cambridge,,United Kingdom,18,M,0,52.2034823,0.1235817
+510,Frederick Sanger,University of Cambridge,Cambridge,,United Kingdom,18,M,0,52.2034823,0.1235817
+529,Aaron Klug,MRC Laboratory of Molecular Biology,Cambridge,,United Kingdom,10,M,0,52.2034823,0.1235817
+549,Cesar Milstein,MRC Laboratory of Molecular Biology,Cambridge,,United Kingdom,10,M,0,52.2034823,0.1235817
+552,Richard Stone,University of Cambridge,Cambridge,,United Kingdom,18,M,0,52.2034823,0.1235817
+674,James A. Mirrlees,University of Cambridge,Cambridge,,United Kingdom,18,M,0,52.2034823,0.1235817
+680,John E. Walker,MRC Laboratory of Molecular Biology,Cambridge,,United Kingdom,10,M,0,52.2034823,0.1235817
+699,Amartya Sen,Trinity College,Cambridge,,United Kingdom,1,M,0,52.2034823,0.1235817
+743,John E. Sulston,The Wellcome Trust Sanger Institute,Cambridge,,United Kingdom,1,M,0,52.2034823,0.1235817
+820,Venkatraman Ramakrishnan,MRC Laboratory of Molecular Biology,Cambridge,,United Kingdom,10,M,0,52.2034823,0.1235817
+835,Robert G. Edwards,University of Cambridge,Cambridge,,United Kingdom,18,M,0,52.2034823,0.1235817
+858,Sir John B. Gurdon,Gurdon Institute,Cambridge,,United Kingdom,1,M,0,52.2034823,0.1235817
+917,Richard Henderson,MRC Laboratory of Molecular Biology,Cambridge,,United Kingdom,10,M,0,52.2034823,0.1235817
+929,Sir Gregory P. Winter,MRC Laboratory of Molecular Biology,Cambridge,,United Kingdom,10,M,0,52.2034823,0.1235817
+939,Didier Queloz,University of Cambridge,Cambridge,,United Kingdom,18,M,0,52.2034823,0.1235817
+348,Sir John Eccles,Australian National University,Canberra,,Australia,1,M,0,-35.3344071,149.148496
+797,Sir Martin J. Evans,Cardiff University,Cardiff,,United Kingdom,1,M,0,51.4816546,-3.1791934
+253,Kurt Alder,Cologne University,Cologne,,Germany,1,M,0,50.938361,6.959974
+18,Niels Ryberg Finsen,Finsen Medical Light Institute,Copenhagen,,Denmark,1,M,0,55.6867243,12.5700724
+100,August Krogh,Copenhagen University,Copenhagen,,Denmark,3,M,0,55.6867243,12.5700724
+108,Niels Bohr,Copenhagen University,Copenhagen,,Denmark,3,M,0,55.6867243,12.5700724
+130,Johannes Fibiger,Copenhagen University,Copenhagen,,Denmark,3,M,0,55.6867243,12.5700724
+210,Henrik Dam,Polytechnic Institute,Copenhagen,,Denmark,1,M,0,55.6867243,12.5700724
+452,Aage N. Bohr,Niels Bohr Institute,Copenhagen,,Denmark,1,M,0,55.6867243,12.5700724
+453,Ben R. Mottelson,Nordita,Copenhagen,,Denmark,1,M,0,55.6867243,12.5700724
+260,Ernest T.S. Walton,Trinity College,Dublin,,Ireland,1,M,0,53.3497645,-6.2602732
+88,Charles Glover Barkla,Edinburgh University,Edinburgh,,United Kingdom,2,M,0,55.9533456,-3.1883749
+279,Max Born,Edinburgh University,Edinburgh,,United Kingdom,2,M,0,55.9533456,-3.1883749
+865,Peter Higgs,University of Edinburgh,Edinburgh,,United Kingdom,1,M,0,55.9533456,-3.1883749
+957,Michael Houghton,University of Alberta,Edmonton,,Canada,1,M,0,53.535411,-113.507996
+80,Max von Laue,Frankfurt-on-the-Main University,Frankfurt,,Germany,1,M,0,50.1106444,8.6820917
+586,Hartmut Michel,Max-Planck Institut,Frankfurt,,Germany,1,M,0,50.1106444,8.6820917
+4701,Paul Ehrlich,Konigliches Institut fur experimentelle Therapie ,Frankfurt,,Germany,1,M,1,50.1106444,8.6820917
+27401,Hermann Staudinger,Staatliches Institut fur makromolekulare Chemie ,Freiburg,,Germany,1,M,1,47.9960901,7.8494005
+5401,Theodor W. Hansch,Max-Planck Institut,Garching,,Germany,1,M,1,48.2513878,11.6509662
+95201,Reinhard Genzel,Max-Planck Institut,Garching,,Germany,1,M,1,48.2513878,11.6509662
+544,Carlo Rubbia,CERN,Geneva,,Switzerland,4,M,0,46.2017559,6.1466014
+545,Simon van der Meer,CERN,Geneva,,Switzerland,4,M,0,46.2017559,6.1466014
+583,Jack Steinberger,CERN,Geneva,,Switzerland,4,M,0,46.2017559,6.1466014
+938,Michel Mayor,University of Geneva,Geneva,,Switzerland,2,M,0,46.2017559,6.1466014
+62101,Georges Charpak,CERN,Geneva,,Switzerland,4,M,1,46.2017559,6.1466014
+93901,Didier Queloz,University of Geneva,Geneva,,Switzerland,2,M,1,46.2017559,6.1466014
+200,Corneille Heymans,Ghent University,Ghent,,Belgium,1,M,0,51.0538286,3.7250121
+713,Arvid Carlsson,Goteborg University,Gothenburg,,Sweden,1,M,0,57.7072326,11.9670171
+47,Paul Ehrlich,Goettingen University,Gottingen,,Germany,5,M,0,51.5328328,9.9351811
+59,Otto Wallach,Goettingen University,Gottingen,,Germany,5,M,0,51.5328328,9.9351811
+122,James Franck,Goettingen University,Gottingen,,Germany,5,M,0,51.5328328,9.9351811
+124,Richard Zsigmondy,Goettingen University,Gottingen,,Germany,5,M,0,51.5328328,9.9351811
+378,Manfred Eigen,Max-Planck Institut,Gottingen,,Germany,1,M,0,51.5328328,9.9351811
+616,Erwin Neher,Max-Planck Institut,Gottingen,,Germany,1,M,0,51.5328328,9.9351811
+702,Adolf Windaus,Goettingen University,Gottingen,,Germany,5,M,0,51.5328328,9.9351811
+56701,Stefan W. Hell,Max-Planck Institut,Gottingen,,Germany,1,M,1,51.5328328,9.9351811
+115,Fritz Pregl,Graz University,Graz,,Austria,2,M,0,47.0708678,15.4382786
+188,Otto Loewi,Graz University,Graz,,Austria,2,M,0,47.0708678,15.4382786
+94,Johannes Stark,Greifswald University,Greifswald,,Germany,1,M,0,54.095791,13.3815238
+403,Louis Neel,University of Grenoble,Grenoble,,France,1,M,0,45.1875602,5.7357819
+273,Frits Zernike,Groningen University,Groningen,,the Netherlands,1,M,0,53.2190652,6.5680077
+906,Bernard L. Feringa,University of Groningen,Groningen,,the Netherlands,1,M,0,53.2190652,6.5680077
+762,Aaron Ciechanover,Technion - Israel Institute of Technology,Haifa,,Israel,3,M,0,32.8191218,34.9983856
+763,Avram Hershko,Technion - Israel Institute of Technology,Haifa,,Israel,3,M,0,32.8191218,34.9983856
+844,Dan Shechtman,Technion - Israel Institute of Technology,Haifa,,Israel,3,M,0,32.8191218,34.9983856
+123,Gustav Hertz,Halle University,Halle,,Germany,1,M,0,51.4825041,11.9705452
+639,Bertram N. Brockhouse,McMaster University,Hamilton,,Canada,1,M,0,43.2560802,-79.8728583
+57601,Charles K. Kao,Standard Telecommunication Laboratories,Harlow,,United Kingdom,1,M,1,51.7676194,0.0974893
+259,John Cockcroft,Atomic Energy Research Establishment,Harwell,,United Kingdom,1,M,0,51.5999743,-1.2909164
+60,Albrecht Kossel,University of Heidelberg,Heidelberg,,Germany,7,M,0,49.4093582,8.694724
+157,Carl Bosch,University of Heidelberg,Heidelberg,,Germany,7,M,0,49.4093582,8.694724
+158,Friedrich Bergius,University of Heidelberg,Heidelberg,,Germany,7,M,0,49.4093582,8.694724
+199,Richard Kuhn,University of Heidelberg,Heidelberg,,Germany,7,M,0,49.4093582,8.694724
+280,Walther Bothe,University of Heidelberg,Heidelberg,,Germany,7,M,0,49.4093582,8.694724
+345,J. Hans D. Jensen,University of Heidelberg,Heidelberg,,Germany,7,M,0,49.4093582,8.694724
+499,Georg Wittig,University of Heidelberg,Heidelberg,,Germany,7,M,0,49.4093582,8.694724
+617,Bert Sakmann,Max-Planck Institut,Heidelberg,,Germany,2,M,0,49.4093582,8.694724
+811,Harald zur Hausen,German Cancer Research Center,Heidelberg,,Germany,2,M,0,49.4093582,8.694724
+881,Stefan W. Hell,German Cancer Research Center,Heidelberg,,Germany,2,M,0,49.4093582,8.694724
+15701,Carl Bosch,I.G. Farbenindustrie A.G.,Heidelberg,,Germany,1,M,1,49.4093582,8.694724
+19901,Richard Kuhn,Max-Planck Institut,Heidelberg,,Germany,1,M,1,49.4093582,8.694724
+28001,Walther Bothe,Max-Planck Institut,Heidelberg,,Germany,2,M,1,49.4093582,8.694724
+219,Artturi Virtanen,University of Helsinki,Helsinki,,Finland,1,M,0,60.1674881,24.9427473
+892,Tomas Lindahl,Clare Hall Laboratory,Hertfordshire,,United Kingdom,1,M,0,51.8400523,-0.0978552
+89201,Tomas Lindahl,Francis Crick Institute,Hertfordshire,,United Kingdom,1,M,1,51.8400523,-0.0978552
+817,Charles K. Kao,Chinese University of Hong Kong,Hong Kong,,China,1,M,0,22.2793278,114.1628131
+184,Victor F. Hess,Innsbruck University,Innsbruck,,Austria,1,M,0,47.2654296,11.3927685
+782,Robert J. Aumann,University of Jerusalem,Jerusalem,,Israel,1,M,0,31.7959242,35.2119808
+794,Peter Grunberg,Forschungszentrum Julich,Julich,,Germany,1,M,0,50.9220931,6.3611015
+890,Takaaki Kajita,University of Tokyo,Kashiwa,,Japan,1,M,0,35.8676218,139.9756876
+27,Philipp Lenard,Kiel University,Kiel,,Germany,3,M,0,54.3227085,10.135555
+111,Otto Meyerhof,Kiel University,Kiel,,Germany,3,M,0,54.3227085,10.135555
+252,Otto Diels,Kiel University,Kiel,,Germany,3,M,0,54.3227085,10.135555
+891,Arthur B. McDonald,Queen's University,Kingston,,Canada,1,M,0,44.230687,-76.481323
+520,Kenichi Fukui,Kyoto University,Kyoto,,Japan,3,M,0,35.021041,135.7556075
+739,Koichi Tanaka,Shimadzu Corp.,Kyoto,,Japan,1,M,0,35.021041,135.7556075
+807,Toshihide Maskawa,Kyoto University,Kyoto,,Japan,1,M,0,35.021041,135.7556075
+859,Shinya Yamanaka,Kyoto University,Kyoto,,Japan,3,M,0,35.021041,135.7556075
+931,Tasuku Honjo,Kyoto University,Kyoto,,Japan,3,M,0,35.021041,135.7556075
+24501,Hideki Yukawa,Kyoto Imperial University,Kyoto,,Japan,1,M,1,35.021041,135.7556075
+80701,Toshihide Maskawa,Kyoto Sangyo University,Kyoto,,Japan,1,M,1,35.021041,135.7556075
+915,Jacques Dubochet,University of Lausanne,Lausanne,,Switzerland,1,M,0,46.5218269,6.6327025
+7,Hendrik A. Lorentz,Leiden University,Leiden,,the Netherlands,3,M,0,52.1518157,4.4811089
+75,Heike Kamerlingh Onnes,Leiden University,Leiden,,the Netherlands,3,M,0,52.1518157,4.4811089
+120,Willem Einthoven,Leiden University,Leiden,,the Netherlands,3,M,0,52.1518157,4.4811089
+53,Wilhelm Ostwald,Leipzig University,Leipzig,,Germany,2,M,0,51.3406321,12.3747329
+163,Werner Heisenberg,Leipzig University,Leipzig,,Germany,2,M,0,51.3406321,12.3747329
+248,Egas Moniz,Neurological Institute,Lisbon,,Portugal,1,M,0,38.7077507,-9.1365919
+24801,Egas Moniz,University of Lisbon,Lisbon,,Portugal,1,M,1,38.7077507,-9.1365919
+10,Ronald Ross,University College,Liverpool,,United Kingdom,1,M,0,53.407154,-2.991665
+179,James Chadwick,Liverpool University,Liverpool,,United Kingdom,1,M,0,53.407154,-2.991665
+21,Lord Rayleigh,Royal Institution of Great Britain,London,,United Kingdom,2,M,0,51.5073219,-0.1276474
+22,Sir William Ramsay,University College,London,,United Kingdom,6,M,0,51.5073219,-0.1276474
+52,Guglielmo Marconi,Marconi Wireless Telegraph Co. Ltd.,London,,United Kingdom,1,M,0,51.5073219,-0.1276474
+84,William Bragg,University College,London,,United Kingdom,6,M,0,51.5073219,-0.1276474
+110,Archibald V. Hill,London University,London,,United Kingdom,6,M,0,51.5073219,-0.1276474
+141,Owen Willans Richardson,London University,London,,United Kingdom,6,M,0,51.5073219,-0.1276474
+146,Arthur Harden,London University,London,,United Kingdom,6,M,0,51.5073219,-0.1276474
+187,Sir Henry Dale,National Institute for Medical Research,London,,United Kingdom,2,M,0,51.5073219,-0.1276474
+192,George Paget Thomson,London University,London,,United Kingdom,6,M,0,51.5073219,-0.1276474
+220,Sir Alexander Fleming,London University,London,,United Kingdom,6,M,0,51.5073219,-0.1276474
+233,Edward V. Appleton,Department of Scientific and Industrial Research,London,,United Kingdom,1,M,0,51.5073219,-0.1276474
+268,Archer J.P. Martin,National Institute for Medical Research,London,,United Kingdom,2,M,0,51.5073219,-0.1276474
+326,Peter Medawar,University College,London,,United Kingdom,6,M,0,51.5073219,-0.1276474
+340,Maurice Wilkins,London University,London,,United Kingdom,6,M,0,51.5073219,-0.1276474
+350,Andrew Huxley,University College,London,,United Kingdom,6,M,0,51.5073219,-0.1276474
+380,George Porter,Royal Institution of Great Britain,London,,United Kingdom,2,M,0,51.5073219,-0.1276474
+393,Derek Barton,Imperial College,London,,United Kingdom,4,M,0,51.5073219,-0.1276474
+407,Sir Bernard Katz,University College,London,,United Kingdom,6,M,0,51.5073219,-0.1276474
+411,Dennis Gabor,Imperial College,London,,United Kingdom,4,M,0,51.5073219,-0.1276474
+432,Geoffrey Wilkinson,Imperial College,London,,United Kingdom,4,M,0,51.5073219,-0.1276474
+458,Renato Dulbecco,Imperial Cancer Research Fund Laboratory,London,,United Kingdom,1,M,0,51.5073219,-0.1276474
+496,Abdus Salam,Imperial College,London,,United Kingdom,4,M,0,51.5073219,-0.1276474
+501,Godfrey N. Hounsfield,Central Research Laboratories,London,,United Kingdom,1,M,0,51.5073219,-0.1276474
+587,Sir James W. Black,London University,London,,United Kingdom,1,M,0,51.5073219,-0.1276474
+727,Tim Hunt,Imperial Cancer Research Fund,London,,United Kingdom,2,M,0,51.5073219,-0.1276474
+728,Sir Paul Nurse,Imperial Cancer Research Fund,London,,United Kingdom,2,M,0,51.5073219,-0.1276474
+840,Christopher A. Pissarides,London School of Economics and Political Science,London,,United Kingdom,1,M,0,51.5073219,-0.1276474
+883,John O'Keefe,University College,London,,United Kingdom,6,M,0,51.5073219,-0.1276474
+94401,Sir Peter J. Ratcliffe,Francis Crick Institute,London,,United Kingdom,1,M,1,51.5073219,-0.1276474
+443,Albert Claude,Universite Catholique de Louvain,Louvain,,Belgium,2,M,0,50.879202,4.7011675
+44401,Christian de Duve,Universite Catholique de Louvain,Louvain,,Belgium,2,M,1,50.879202,4.7011675
+35,Santiago Ramon y Cajal,Madrid University,Madrid,,Spain,1,M,0,40.4167047,-3.7035825
+298,Werner Forssmann,Mainz University,Mainz,,Germany,1,M,0,50.0012314,8.2762513
+653,Paul J. Crutzen,Max-Planck Institut,Mainz,,Germany,1,M,0,50.0012314,8.2762513
+45,Ernest Rutherford,Victoria University,Manchester,,United Kingdom,3,M,0,53.4794892,-2.2451148
+84,Lawrence Bragg,Victoria University,Manchester,,United Kingdom,3,M,0,53.4794892,-2.2451148
+241,Patrick M.S. Blackett,Victoria University,Manchester,,United Kingdom,3,M,0,53.4794892,-2.2451148
+830,Andre Geim,University of Manchester,Manchester,,United Kingdom,2,M,0,53.4794892,-2.2451148
+831,Konstantin Novoselov,University of Manchester,Manchester,,United Kingdom,2,M,0,53.4794892,-2.2451148
+15801,Friedrich Bergius,I.G. Farbenindustrie A.G.,Mannheim-Rheinau,,Germany,1,M,1,49.4224997,8.5386257
+3,Emil von Behring,Marburg University,Marburg,,Germany,1,M,0,50.8117327,8.7757742
+585,Robert Huber,Max-Planck Institut,Martinsried,,Germany,1,M,0,48.10882,11.4508007
+325,Sir Frank Macfarlane Burnet,Walter and Eliza Hall Institute for Medical Research,Melbourne,,Australia,1,M,0,-37.8077694,144.960964
+347,Giulio Natta,Institute of Technology,Milan,,Italy,1,M,0,45.4668,9.1905
+296,Nikolay Semenov,Lomonosov Moscow State University,Moscow,,Russia,3,M,0,55.7504461,37.6174943
+307,Pavel A. Cherenkov,P.N. Lebedev Physical Institute,Moscow,,Russia,5,M,0,55.7504461,37.6174943
+308,Il ja M. Frank,Lomonosov Moscow State University,Moscow,,Russia,3,M,0,55.7504461,37.6174943
+309,Igor Y. Tamm,Lomonosov Moscow State University,Moscow,,Russia,3,M,0,55.7504461,37.6174943
+335,Lev Landau,Academy of Sciences,Moscow,,Russia,3,M,0,55.7504461,37.6174943
+355,Nicolay G. Basov,P.N. Lebedev Physical Institute,Moscow,,Russia,5,M,0,55.7504461,37.6174943
+356,Aleksandr M. Prokhorov,P.N. Lebedev Physical Institute,Moscow,,Russia,5,M,0,55.7504461,37.6174943
+462,Leonid Vitaliyevich Kantorovich,Academy of Sciences,Moscow,,Russia,3,M,0,55.7504461,37.6174943
+484,Pyotr Kapitsa,Academy of Sciences,Moscow,,Russia,3,M,0,55.7504461,37.6174943
+749,Vitaly L. Ginzburg,P.N. Lebedev Physical Institute,Moscow,,Russia,1,M,0,55.7504461,37.6174943
+29601,Nikolay Semenov,Institute for Chemical Physics of the Academy of Sciences of the USSR,Moscow,,Russia,1,M,1,55.7504461,37.6174943
+30801,Il ja M. Frank,P.N. Lebedev Physical Institute,Moscow,,Russia,5,M,1,55.7504461,37.6174943
+30901,Igor Y. Tamm,P.N. Lebedev Physical Institute,Moscow,,Russia,5,M,1,55.7504461,37.6174943
+346,Karl Ziegler,Max-Planck Institut,Mulheim,,Germany,1,M,0,51.4272925,6.8829192
+1,Wilhelm Conrad Rontgen,Munich University,Munich,,Germany,4,M,0,48.1371079,11.5753822
+28,Adolf von Baeyer,Munich University,Munich,,Germany,4,M,0,48.1371079,11.5753822
+85,Richard Willstatter,Munich University,Munich,,Germany,4,M,0,48.1371079,11.5753822
+136,Heinrich Wieland,Munich University,Munich,,Germany,4,M,0,48.1371079,11.5753822
+153,Hans Fischer,Technische Hochschule ,Munich,,Germany,1,M,0,48.1371079,11.5753822
+359,Feodor Lynen,Max-Planck Institut,Munich,,Germany,1,M,0,48.1371079,11.5753822
+431,Ernst Otto Fischer,Technical University,Munich,,Germany,2,M,0,48.1371079,11.5753822
+433,Karl von Frisch,Zoologisches Institut der Universitat Munchen,Munich,,Germany,1,M,0,48.1371079,11.5753822
+773,Theodor W. Hansch,Ludwig-Maximilians-Universitat,Munich,,Germany,1,M,0,48.1371079,11.5753822
+33001,Rudolf Mossbauer,Technical University,Munich,,Germany,2,M,1,48.1371079,11.5753822
+206,Gerhard Domagk,Munster University,Munster,,Germany,1,M,0,51.9625101,7.6251879
+91201,Rainer Weiss,LIGO/VIRGO Collaboration,,,Italy,3,M,1,46.3144754,11.0480288
+91301,Barry C. Barish,LIGO/VIRGO Collaboration,,,Italy,3,M,1,46.3144754,11.0480288
+91401,Kip S. Thorne,LIGO/VIRGO Collaboration,,,Italy,3,M,1,46.3144754,11.0480288
+724,Ryoji Noyori,Nagoya University,Nagoya,,Japan,3,M,0,35.1851045,136.8998438
+877,Isamu Akasaki,Nagoya University,Nagoya,,Japan,3,M,0,35.1851045,136.8998438
+878,Hiroshi Amano,Nagoya University,Nagoya,,Japan,3,M,0,35.1851045,136.8998438
+942,Akira Yoshino,Meijo University,Nagoya,,Japan,2,M,0,35.1851045,136.8998438
+87701,Isamu Akasaki,Meijo University,Nagoya,,Japan,2,M,1,35.1851045,136.8998438
+70,Victor Grignard,Nancy University,Nancy,,France,1,M,0,48.6937223,6.1834097
+77701,Barry J. Marshall,NHMRC Helicobacter pylori Research Laboratory,Nedlands,,Australia,1,M,1,-33.4070758,149.62496
+754,Sir Peter Mansfield,University of Nottingham,Nottingham,,United Kingdom,1,M,0,52.9534193,-1.1496461
+793,Albert Fert,Universite Paris-Sud,Orsay,,France,1,M,0,48.699184,2.187457
+79301,Albert Fert,Unite Mixte de Physique CNRS/THALES,Orsay,,France,1,M,1,48.699184,2.187457
+394,Odd Hassel,University of Oslo,Oslo,,Norway,3,M,0,59.9133301,10.7389701
+400,Ragnar Frisch,University of Oslo,Oslo,,Norway,3,M,0,59.9133301,10.7389701
+602,Trygve Haavelmo,University of Oslo,Oslo,,Norway,3,M,0,59.9133301,10.7389701
+412,Gerhard Herzberg,National Research Council of Canada,Ottawa,,Canada,1,M,0,45.421106,-75.690308
+104,Frederick Soddy,University of Oxford,Oxford,,United Kingdom,10,M,0,51.7520131,-1.2578499
+165,Sir Charles Sherrington,University of Oxford,Oxford,,United Kingdom,10,M,0,51.7520131,-1.2578499
+221,Ernst B. Chain,University of Oxford,Oxford,,United Kingdom,10,M,0,51.7520131,-1.2578499
+222,Sir Howard Florey,University of Oxford,Oxford,,United Kingdom,10,M,0,51.7520131,-1.2578499
+234,Sir Robert Robinson,University of Oxford,Oxford,,United Kingdom,10,M,0,51.7520131,-1.2578499
+295,Sir Cyril Hinshelwood,University of Oxford,Oxford,,United Kingdom,10,M,0,51.7520131,-1.2578499
+357,Dorothy Crowfoot Hodgkin,University of Oxford,Oxford,,United Kingdom,1,F,0,51.7520131,-1.2578499
+424,Rodney R. Porter,University of Oxford,Oxford,,United Kingdom,10,M,0,51.7520131,-1.2578499
+426,John R. Hicks,All Souls College,Oxford,,United Kingdom,1,M,0,51.7520131,-1.2578499
+435,Nikolaas Tinbergen,University of Oxford,Oxford,,United Kingdom,10,M,0,51.7520131,-1.2578499
+944,Sir Peter J. Ratcliffe,University of Oxford,Oxford,,United Kingdom,10,M,0,51.7520131,-1.2578499
+951,Roger Penrose,University of Oxford,Oxford,,United Kingdom,10,M,0,51.7520131,-1.2578499
+92501,Gerard Mourou,Ecole Polytechnique,Palaiseau,,France,1,M,1,48.7144587,2.2453842
+14,Henri Becquerel,Ecole Polytechnique,Paris,,France,1,M,0,48.8566969,2.3514616
+15,Pierre Curie,Ecole municipale de physique et de chimie industrielles ,Paris,,France,1,M,0,48.8566969,2.3514616
+16,Marie Curie,Sorbonne University,Paris,,France,6,F,0,48.8566969,2.3514616
+33,Henri Moissan,Sorbonne University,Paris,,France,6,M,0,48.8566969,2.3514616
+40,Alphonse Laveran,Institut Pasteur,Paris,,France,5,M,0,48.8566969,2.3514616
+44,Gabriel Lippmann,Sorbonne University,Paris,,France,6,M,0,48.8566969,2.3514616
+46,Ilya Mechnikov,Institut Pasteur,Paris,,France,5,M,0,48.8566969,2.3514616
+77,Charles Richet,Sorbonne University,Paris,,France,6,M,0,48.8566969,2.3514616
+128,Jean Baptiste Perrin,Sorbonne University,Paris,,France,6,M,0,48.8566969,2.3514616
+145,Louis de Broglie,Sorbonne University,Paris,,France,1,M,0,48.8566969,2.3514616
+180,Frederic Joliot,Institut du Radium,Paris,,France,2,M,0,48.8566969,2.3514616
+181,Irene Joliot-Curie,Institut du Radium,Paris,,France,2,F,0,48.8566969,2.3514616
+366,Francois Jacob,Institut Pasteur,Paris,,France,5,M,0,48.8566969,2.3514616
+367,Andre Lwoff,Institut Pasteur,Paris,,France,5,M,0,48.8566969,2.3514616
+368,Jacques Monod,Institut Pasteur,Paris,,France,5,M,0,48.8566969,2.3514616
+371,Alfred Kastler,Ecole Normale Superieure,Paris,,France,3,M,0,48.8566969,2.3514616
+512,Jean Dausset,Universite de Paris,Paris,,France,1,M,0,48.8566969,2.3514616
+575,Jean-Marie Lehn,College de France,Paris,,France,4,M,0,48.8566969,2.3514616
+592,Maurice Allais,Ecole Nationale Superieur des Mines de Paris,Paris,,France,1,M,0,48.8566969,2.3514616
+614,Pierre-Gilles de Gennes,College de France,Paris,,France,4,M,0,48.8566969,2.3514616
+621,Georges Charpak,Ecole Superieure de Physique et Chimie,Paris,,France,1,M,0,48.8566969,2.3514616
+677,Claude Cohen-Tannoudji,Ecole Normale Superieure,Paris,,France,3,M,0,48.8566969,2.3514616
+812,Francoise Barre-Sinoussi,Institut Pasteur,Paris,,France,1,F,0,48.8566969,2.3514616
+813,Luc Montagnier,World Foundation for AIDS Research and Prevention,Paris,,France,1,M,0,48.8566969,2.3514616
+854,Serge Haroche,College de France,Paris,,France,4,M,0,48.8566969,2.3514616
+32001,Serge Haroche,Ecole Normale Superieure,Paris,,France,3,M,1,48.8566969,2.3514616
+67701,Claude Cohen-Tannoudji,College de France,Paris,,France,4,M,1,48.8566969,2.3514616
+34,Camillo Golgi,Pavia University,Pavia,,Italy,1,M,0,45.0368546,9.1378251
+777,Barry J. Marshall,University of Western Australia,Perth,,Australia,1,M,0,-31.9938566,115.8854007
+318,Jaroslav Heyrovsky,Polarographic Institute of the Czechoslovak Academy of Science,Prague,,Czech Republic,1,M,0,50.0874654,14.4212535
+822,Ada E. Yonath,Weizmann Institute of Science,Rehovot,,Israel,1,M,0,31.8952532,34.8105616
+198,Enrico Fermi,Rome University,Rome,,Italy,1,M,0,41.8933203,12.4829321
+304,Daniel Bovet,Istituto Superiore di Sanita ,Rome,,Italy,1,M,0,41.8933203,12.4829321
+568,Rita Levi-Montalcini,Institute of Cell Biology of the C.N.R.,Rome,,Italy,1,F,0,41.8933203,12.4829321
+401,Jan Tinbergen,The Netherlands School of Economics,Rotterdam,,the Netherlands,1,M,0,51.9228934,4.4631786
+774,Yves Chauvin,Institut Francais du Petrole,Rueil-Malmaison,,France,1,M,0,48.87778,2.1802832
+562,Gerd Binnig,IBM Zurich Research Laboratory,Ruschlikon,,Switzerland,4,M,0,47.307465,8.5546421
+563,Heinrich Rohrer,IBM Zurich Research Laboratory,Ruschlikon,,Switzerland,4,M,0,47.307465,8.5546421
+572,J. Georg Bednorz,IBM Zurich Research Laboratory,Ruschlikon,,Switzerland,4,M,0,47.307465,8.5546421
+573,K. Alex Muller,IBM Zurich Research Laboratory,Ruschlikon,,Switzerland,4,M,0,47.307465,8.5546421
+834,Akira Suzuki,Hokkaido University,Sapporo,,Japan,1,M,0,43.061936,141.3542924
+98,Charles Edouard Guillaume,Bureau International des Poids et Mesures ,Sevres,,France,1,M,0,48.8247407,2.2127083
+275,Hans Krebs,Sheffield University,Sheffield,,United Kingdom,1,M,0,53.3806626,-1.4702278
+23,Ivan Pavlov,Military Medical Academy,St. Petersburg,,Russia,1,M,0,59.938732,30.316229
+707,Zhores Alferov,A.F. Ioffe Physico-Technical Institute,St. Petersburg,,Russia,1,M,0,59.938732,30.316229
+17,Svante Arrhenius,Stockholm University,Stockholm,,Sweden,3,M,0,59.3251172,18.0710935
+69,Gustaf Dalen,Swedish Gas-Accumulator Co.,Stockholm,,Sweden,1,M,0,59.3251172,18.0710935
+147,Hans von Euler-Chelpin,Stockholm University,Stockholm,,Sweden,3,M,0,59.3251172,18.0710935
+209,George de Hevesy,Stockholm University,Stockholm,,Sweden,3,M,0,59.3251172,18.0710935
+290,Hugo Theorell,Karolinska Institutet,Stockholm,,Sweden,1,M,0,59.3251172,18.0710935
+381,Ragnar Granit,Karolinska Institutet,Stockholm,,Sweden,4,M,0,59.3251172,18.0710935
+402,Hannes Alfven,Royal Institute of Technology,Stockholm,,Sweden,1,M,0,59.3251172,18.0710935
+406,Ulf von Euler,Karolinska Institutet,Stockholm,,Sweden,4,M,0,59.3251172,18.0710935
+482,Bertil Ohlin,Stockholm School of Economics,Stockholm,,Sweden,1,M,0,59.3251172,18.0710935
+530,Sune K. Bergstr‚àöom,Karolinska Institutet,Stockholm,,Sweden,4,M,0,59.3251172,18.0710935
+531,Bengt I. Samuelsson,Karolinska Institutet,Stockholm,,Sweden,4,M,0,59.3251172,18.0710935
+51,Ferdinand Braun,Strasbourg University,Strasbourg,,France,1,M,0,48.584614,7.7507127
+846,Jules A. Hoffmann,University of Strasbourg,Strasbourg,,France,2,M,0,48.584614,7.7507127
+904,Jean-Pierre Sauvage,University of Strasbourg,Strasbourg,,France,2,M,0,48.584614,7.7507127
+57501,Jean-Marie Lehn,Universite Louis Pasteur,Strasbourg,,France,1,M,1,48.584614,7.7507127
+86601,Martin Karplus,Universite de Strasbourg,Strasbourg,,France,1,M,1,48.584614,7.7507127
+553,Klaus von Klitzing,Max-Planck Institut,Stuttgart,,Germany,1,M,0,48.7784485,9.1800132
+195,Albert Szent-Gyorgyi,Szeged University,Szeged,,Hungary,1,M,0,46.2546312,20.1486016
+362,Sin-Itiro Tomonaga,Tokyo University of Education,Tokyo,,Japan,1,M,0,35.6828387,139.7594549
+712,Hideki Shirakawa,University of Tsukuba,Tokyo,,Japan,1,M,0,35.6828387,139.7594549
+736,Masatoshi Koshiba,University of Tokyo,Tokyo,,Japan,1,M,0,35.6828387,139.7594549
+896,Satoshi Omura,Kitasato University,Tokyo,,Japan,1,M,0,35.6828387,139.7594549
+907,Yoshinori Ohsumi,Tokyo Institute of Technology,Tokyo,,Japan,1,M,0,35.6828387,139.7594549
+94201,Akira Yoshino,Asahi Kasei Corporation,Tokyo,,Japan,1,M,1,35.6828387,139.7594549
+116,Frederick G. Banting,University of Toronto,Toronto,,Canada,3,M,0,43.6534817,-79.3839347
+117,John Macleod,University of Toronto,Toronto,,Canada,3,M,0,43.6534817,-79.3839347
+566,John C. Polanyi,University of Toronto,Toronto,,Canada,3,M,0,43.6534817,-79.3839347
+71,Paul Sabatier,Toulouse University,Toulouse,,France,1,M,0,43.6044622,1.4442469
+889,Jean Tirole,Toulouse School of Economics ,Toulouse,,France,1,M,0,43.6044622,1.4442469
+49601,Abdus Salam,International Centre for Theoretical Physics,Trieste,,Italy,1,M,1,45.6504806,13.7931263
+884,May-Britt Moser,Norwegian University of Science and Technology ,Trondheim,,Norway,2,F,0,63.4305658,10.3951929
+885,Edvard I. Moser,Norwegian University of Science and Technology ,Trondheim,,Norway,2,M,0,63.4305658,10.3951929
+806,Makoto Kobayashi,High Energy Accelerator Research Organization ,Tsukuba,,Japan,1,M,0,36.0833877,140.0765098
+657,Christiane Nusslein-Volhard,Max-Planck Institut,Tubingen,,Germany,1,F,0,48.5236164,9.0535531
+143,Charles Nicolle,Institut Pasteur,Tunis,,Tunisia,1,M,0,33.8439408,9.400138
+65,Allvar Gullstrand,Uppsala University,Uppsala,,Sweden,5,M,0,59.8586126,17.6387436
+119,Manne Siegbahn,Uppsala University,Uppsala,,Sweden,5,M,0,59.8586126,17.6387436
+129,The Svedberg,Uppsala University,Uppsala,,Sweden,5,M,0,59.8586126,17.6387436
+242,Arne Tiselius,Uppsala University,Uppsala,,Sweden,5,M,0,59.8586126,17.6387436
+519,Kai M. Siegbahn,Uppsala University,Uppsala,,Sweden,5,M,0,59.8586126,17.6387436
+148,Christiaan Eijkman,Utrecht University,Utrecht,,the Netherlands,2,M,0,52.0809856,5.127684
+700,Gerardus 't Hooft,Utrecht University,Utrecht,,the Netherlands,2,M,0,52.0809856,5.127684
+631,Michael Smith,University of British Columbia,Vancouver,,Canada,1,M,0,49.2608724,-123.1139529
+82,Robert Barany,Vienna University,Vienna,,Austria,2,M,0,48.2083537,16.3725042
+137,Julius Wagner-Jauregg,Vienna University,Vienna,,Austria,2,M,0,48.2083537,16.3725042
+434,Konrad Lorenz,Konrad-Lorenz-Institut der Osterreichischen Akademie der Wissen-schaften,Vienna,,Austria,1,M,0,48.2083537,16.3725042
+926,Donna Strickland,University of Waterloo,Waterloo,,Canada,1,F,0,43.4652699,-80.5222961
+84301,Brian P. Schmidt,Australian National University,Weston Creek,,Australia,1,M,1,-35.3415299,149.051452
+63,Wilhelm Wien,Wurzburg University,Wurzburg,,Germany,1,M,0,49.79245,9.932966
+76,Alfred Werner,University of Zurich,Zurich,,Switzerland,3,M,0,47.3744489,8.5410422
+194,Paul Karrer,University of Zurich,Zurich,,Switzerland,3,M,0,47.3744489,8.5410422
+205,Leopold Ruzicka,Eidgenossische Technische Hochschule ,Zurich,,Switzerland,4,M,0,47.3744489,8.5410422
+247,Walter Hess,University of Zurich,Zurich,,Switzerland,3,M,0,47.3744489,8.5410422
+456,Vladimir Prelog,Eidgenossische Technische Hochschule ,Zurich,,Switzerland,4,M,0,47.3744489,8.5410422
+615,Richard R. Ernst,Eidgenossische Technische Hochschule ,Zurich,,Switzerland,4,M,0,47.3744489,8.5410422
+670,Rolf M. Zinkernagel,University of Zurich,Zurich,,Switzerland,1,M,0,47.3744489,8.5410422
+740,Kurt Wuthrich,Eidgenossische Technische Hochschule ,Zurich,,Switzerland,4,M,0,47.3744489,8.5410422

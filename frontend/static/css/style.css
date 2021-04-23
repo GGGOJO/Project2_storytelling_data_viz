@@ -1,0 +1,13 @@
+body, p, h1 {
+    margin: 10px 100px;
+}
+#map,
+#parent,
+body,
+html {
+    height: 90%;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+}
+
