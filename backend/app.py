@@ -157,7 +157,7 @@ def rd():
             locationmode='USA-states',
             colorscale=scl,
             text=df_segmented['text'].tolist(),
-            colorbar={'title': '% S&E Jobs'})
+            colorbar={'title': '% R&D'})
 
         data_slider2.append(data_each_yr)
 
