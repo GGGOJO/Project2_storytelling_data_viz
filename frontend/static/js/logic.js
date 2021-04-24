@@ -29,7 +29,7 @@ d3.json("http://localhost:5000/api/winners_state").then(function (data) {
 // Store API query variables
 var myMap = L.map("map", {
     center: [39.0997, -94.5786],
-    zoom: 5
+    zoom: 4
 });
 
 L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
