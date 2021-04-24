@@ -3,7 +3,7 @@ Numbers, Locations, and Economic Impact: A Data Story
 
 This repository holds the frontend and backend code to five data visualizations. 
 
-The story is to understand scientists that live in the United States. The these data visulizations, we learn the following:
+The story is to understand scientists that live in the United States. Through these data visulizations, we learn the following:
 
 * The US has the majority of Nobel prize laureates.
 * The state of CA has the most (194) laureates, followed by MA (146) and NY (118).
