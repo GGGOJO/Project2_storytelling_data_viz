@@ -1,6 +1,10 @@
-body, p, h1 {
+body, 
+p, 
+h1, 
+h3 {
     margin: 10px 100px;
 }
+
 #map,
 #parent,
 body,
